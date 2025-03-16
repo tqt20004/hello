@@ -1,0 +1,7 @@
+D:\Homework\tinhdientichhinhvuong\tinhdientichhinhvuong\bin\Debug\tinhdientichhinhvuong.exe.config
+D:\Homework\tinhdientichhinhvuong\tinhdientichhinhvuong\bin\Debug\tinhdientichhinhvuong.exe
+D:\Homework\tinhdientichhinhvuong\tinhdientichhinhvuong\bin\Debug\tinhdientichhinhvuong.pdb
+D:\Homework\tinhdientichhinhvuong\tinhdientichhinhvuong\obj\Debug\tinhdientichhinhvuong.csproj.AssemblyReference.cache
+D:\Homework\tinhdientichhinhvuong\tinhdientichhinhvuong\obj\Debug\tinhdientichhinhvuong.csproj.CoreCompileInputs.cache
+D:\Homework\tinhdientichhinhvuong\tinhdientichhinhvuong\obj\Debug\tinhdientichhinhvuong.exe
+D:\Homework\tinhdientichhinhvuong\tinhdientichhinhvuong\obj\Debug\tinhdientichhinhvuong.pdb
